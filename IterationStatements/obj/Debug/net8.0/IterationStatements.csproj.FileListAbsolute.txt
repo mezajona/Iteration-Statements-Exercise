@@ -1,0 +1,15 @@
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net8.0\IterationStatements.exe
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net8.0\IterationStatements.deps.json
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net8.0\IterationStatements.runtimeconfig.json
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net8.0\IterationStatements.dll
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net8.0\IterationStatements.pdb
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\IterationStatements.AssemblyInfo.cs
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\IterationStatements.sourcelink.json
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\IterationStatements.dll
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\refint\IterationStatements.dll
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\IterationStatements.pdb
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\IterationStatements.genruntimeconfig.cache
+C:\Users\Jonathan Meza\Desktop\Repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net8.0\ref\IterationStatements.dll
